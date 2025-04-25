@@ -1,0 +1,124 @@
+Bild:130.png
+ A man in a black hoodie standing in front of a wooden wall.
+Bild:179.png
+ ringler metallbau & sicherhe stechnik
+Bild:229.png
+ A man working on a machine in a factory.
+Bild:270.png
+ A man is working on a piece of metal.
+Bild:306.png
+ A welder working on a piece of glass.
+Bild:349.png
+ A person welding a piece of metal with a blue light.
+Bild:387.png
+ A man welding a piece of metal in a workshop.
+Bild:435.png
+ A person is putting a piece of metal in a clear box.
+Bild:472.png
+ A woman sitting at a desk in front of a computer.
+Bild:511.png
+ A woman wearing glasses looking down at her cell phone.
+Bild:557.png
+ A person is opening a lock with a key.
+Bild:637.png
+ A close up of a persons finger pressing a button on a machine.}
+Bild:666.png
+ A close up of a machine with a red knob.
+Bild:704.png
+ A man is pouring molten metal into a furnace.
+Bild:766.png
+ A blacksmith working on a piece of metal in a blacksmith shop.
+Bild:817.png
+ A man working on a piece of metal in a workshop.
+Bild:883.png
+ A person using a ruler to measure a piece of wood.
+Bild:935.png
+ A man in a black hoodie smiles at the camera.
+Bild:1009.png
+ A man in a black jacket is grinding metal with sparks.
+Bild:1149.png
+ A person using a grinder to cut a piece of metal.
+Bild:1183.png
+ A man in a black sweatshirt is working on a machine.
+Bild:1208.png
+ A close up of a metal ruler on a table.
+Bild:1235.png
+ A man working on a machine in a factory.
+Bild:1292.png
+ A man looking at a computer screen in the dark.
+Bild:1339.png
+ A man and woman standing at a reception desk in a store.
+Bild:1367.png
+ A person looking at a computer screen with a ringler logo on it.
+Bild:1422.png
+ A woman wearing a headset sitting in front of a computer.
+Bild:1471.png
+ A woman wearing a headset with a pen in her mouth.
+Bild:1515.png
+ A man in a black hoodie is looking at something.
+Bild:1550.png
+ A man working on a machine in a workshop.
+Bild:1583.png
+ A close up of a drill bit being used to drill a piece of metal.
+Bild:1635.png
+ A close up of a fire burning in a fireplace.
+Bild:1674.png
+ A man in an apron working on an anvil with sparks.
+Bild:1714.png
+ A close up of a piece of metal being poured into a furnace.
+Bild:1745.png
+ A man using a circular saw to cut a piece of wood.
+Bild:1784.png
+ A man using a grinder to cut a piece of metal.
+Bild:1824.png
+ A close up of a person holding two gauges in their hand.
+Bild:1849.png
+ A young man wearing a hard hat and a hoodie.
+Bild:1871.png
+ A pair of gloves that are on a persons hand.}
+Bild:1940.png
+ A close up of a person welding a piece of metal.
+Bild:1984.png
+ A man working on a piece of metal in a factory.
+Bild:2023.png
+ A man working on a conveyor belt in a factory.
+Bild:2074.png
+ A close up of a piece of metal on a table.
+Bild:2098.png
+ A person writing on a piece of paper with a pen.
+Bild:2142.png
+ A woman sitting at a desk in front of a computer.
+Bild:2173.png
+ A man welding a piece of metal in a workshop.
+Bild:2208.png
+ A close up of a machine that is working on a piece of metal.
+Bild:2252.png
+ A man in a black hoodie is working on a machine.
+Bild:2299.png
+ A close up of a metal valve on a machine.
+Bild:2328.png
+ A man in a green hoodie standing in front of a wooden wall.
+Bild:2355.png
+ A woman in a black shirt standing in front of a wooden wall.
+Bild:2378.png
+ A man wearing a black hoodie and a green hat.
+Bild:2402.png
+ A woman in a black jacket standing in front of a wooden wall.
+Bild:2423.png
+ A man in a black hoodie smiles at the camera.
+Bild:2447.png
+ A woman wearing glasses standing in front of a wooden wall.
+Bild:2571.png
+ A man in a black hoodie smiles at the camera.
+
+Bild:131.png
+{<DETAILED_CAPTION>: The image shows a small house with a patio and a bench in front of it, surrounded by lush green grass and trees, with a clear blue sky in the background.
+Bild:203.png
+{<DETAILED_CAPTION>: The image shows a stack of books sitting on top of a wooden table. The books are arranged in a neat stack, with the top book slightly tilted to the side. The table is a light-colored wood, and the books are of various sizes and colors.
+Bild:291.png
+{<DETAILED_CAPTION>: The image shows a camera sitting on top of a table in a dark room. The camera has a black body with a silver lens and a viewfinder on the top. The table is a light wood color and has a few scratches and dents.
+Bild:367.png
+{<DETAILED_CAPTION>: The image shows a close up of a book with a black and white logo on it. The text on the book is visible, giving the viewer a clear view of the logo.
+Bild:438.png
+{<DETAILED_CAPTION>: The image shows a camera sitting on top of a table next to a speaker, with a cloth draped over it. The camera has a black body with a silver lens and a viewfinder on the top. The speaker is a small, rectangular device with a few knobs and buttons on the front.
+
