@@ -33,15 +33,6 @@ Generate Captions using florence 2 model by microsoft and putting them into a cs
 # 3. cosinesim.py
 validate captions using cosinesimmilarity and create english captions as csv. The further the cosine value goes towards 0.5 the better.
 
-
-
-# 2. Generate captions based on images
-Using the Florence 2 Model we attain every frame in the dir. And run a sam model over it to attain textual descriptions
-
-
-
-
-
 ---
 license: mit
 license_link: https://huggingface.co/microsoft/Florence-2-large/resolve/main/LICENSE
